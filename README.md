@@ -1,7 +1,8 @@
 # Bin
-OC调用C++
+OC调用C++ 
 首先新建一个c++文件,命名为CPPHello
 以下是C++的hpp文件
+
 #ifndef CPPClass_hpp
 #define CPPClass_hpp 
 #include <stdio.h>
@@ -12,6 +13,7 @@ public:
 };
 #endif /* CPPClass_hpp */
 --------------------- 分割线--------
+
 以下是C++的cpp文件
 
 #include "CPPClass.hpp"
